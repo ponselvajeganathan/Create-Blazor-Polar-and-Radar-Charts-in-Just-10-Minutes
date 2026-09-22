@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to create Polar and Radar chart visualizations using the Syncfusion Blazor Chart component in a hosted Blazor WebAssembly application. The solution illustrates how to bind data to chart series, switch between Polar and Radar chart types, and configure commonly used chart elements such as legends, tooltips, and data labels. The sample provides a practical starting point for developers who need to visualize comparative, categorical, or performance-based datasets using circular chart representations.
+This sample demonstrates how to create Polar and Radar chart visualizations using the Syncfusion [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) component in a hosted Blazor WebAssembly application. The solution illustrates how to bind data to chart series, switch between Polar and Radar chart types, and configure commonly used chart elements such as legends, tooltips, and data labels. The sample provides a practical starting point for developers who need to visualize comparative, categorical, or performance-based datasets using circular chart representations.
 
 The project uses a hosted Blazor WebAssembly architecture with separate Client, Server, and Shared projects and demonstrates chart rendering within a modern Blazor application.
 
